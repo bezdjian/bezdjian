@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Harout Bezdjian
-- 👀 I’m a passionate and certified Java & AWS developer who loves coding and learning new technologies 
-- 🌱 I’m currently learning Scala, and going for more AWS certifications
+- 👋  Hi, I’m Harout Bezdjian
+- 👀  I’m a passionate and certified Java & AWS developer who loves coding and learning new technologies 
+- 🌱  I’m currently learning Scala, and going for more AWS certifications
